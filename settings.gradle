@@ -1,0 +1,2 @@
+rootProject.name = "AVSync Issue Demo"
+include ':app'
